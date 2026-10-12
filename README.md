@@ -26,6 +26,8 @@ title: 日常の会話から探究テーマを見つける
 4. 何をどう測れば予想を確かめられるか決める。
 5. 小さく試し、予想と違った結果も記録する。
 
+全体像は[まとめページ](docs/summary.md)にあります。
+
 [探究テーマのテンプレート](templates/inquiry-theme.md)と[教科嗜好の質問票](templates/subject-preference-survey.md)を使えます。調査前に[参加者とデータの扱い](docs/research-practice.md)を確認してください。
 
 ## 編集方針
