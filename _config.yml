@@ -1,0 +1,20 @@
+title: 日常から探究へ
+description: いつもの会話を、中高生の研究テーマへ。身近な疑問から学問と調べ方を見つけよう。
+lang: ja
+url: https://airpocket-soundman.github.io
+baseurl: /everyday-inquiry
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: article
+exclude:
+  - CONTRIBUTING.md

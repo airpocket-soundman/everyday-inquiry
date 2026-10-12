@@ -1,0 +1,10 @@
+# 調査の実データはリポジトリ外で保管する
+data/raw/
+data/private/
+consent/
+recordings/
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
