@@ -16,5 +16,3 @@ defaults:
       path: ""
     values:
       layout: article
-exclude:
-  - CONTRIBUTING.md
